@@ -2,6 +2,7 @@
 <?php 
     require 'lib/template.php';
     get_header();
+    echo "OK";
 ?>
 <?php 
 
