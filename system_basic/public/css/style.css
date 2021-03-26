@@ -1,0 +1,40 @@
+body {
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 23px;
+}
+
+#wrapper {
+    width: 960px;
+    margin: 0px auto;
+}
+
+#header,
+#footer {
+    background: #029ef3;
+}
+
+ul#main-menu {
+    text-align: center;
+}
+
+ul#main-menu li {
+    display: inline-block;
+}
+
+ul#main-menu li a {
+    padding: 5px 15px;
+    color: #fff;
+    display: block;
+}
+
+#content {
+    min-height: 600px;
+    padding: 20px 0px;
+}
+
+#footer {
+    color: #fff;
+    text-align: center;
+    padding: 8px 0px;
+}
